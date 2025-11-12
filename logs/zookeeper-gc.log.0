@@ -1,0 +1,24 @@
+[2025-11-11T01:19:34.629+0000][gc] Using G1
+[2025-11-11T01:19:34.658+0000][gc,init] Version: 17.0.16+8-Ubuntu-0ubuntu122.04.1 (release)
+[2025-11-11T01:19:34.658+0000][gc,init] CPUs: 6 total, 6 available
+[2025-11-11T01:19:34.658+0000][gc,init] Memory: 2589M
+[2025-11-11T01:19:34.658+0000][gc,init] Large Page Support: Disabled
+[2025-11-11T01:19:34.658+0000][gc,init] NUMA Support: Disabled
+[2025-11-11T01:19:34.658+0000][gc,init] Compressed Oops: Enabled (32-bit)
+[2025-11-11T01:19:34.658+0000][gc,init] Heap Region Size: 1M
+[2025-11-11T01:19:34.658+0000][gc,init] Heap Min Capacity: 512M
+[2025-11-11T01:19:34.658+0000][gc,init] Heap Initial Capacity: 512M
+[2025-11-11T01:19:34.658+0000][gc,init] Heap Max Capacity: 512M
+[2025-11-11T01:19:34.658+0000][gc,init] Pre-touch: Disabled
+[2025-11-11T01:19:34.658+0000][gc,init] Parallel Workers: 6
+[2025-11-11T01:19:34.658+0000][gc,init] Concurrent Workers: 2
+[2025-11-11T01:19:34.658+0000][gc,init] Concurrent Refinement Workers: 6
+[2025-11-11T01:19:34.658+0000][gc,init] Periodic GC: Disabled
+[2025-11-11T01:19:34.747+0000][gc,metaspace] CDS archive(s) mapped at: [0x00007f053f000000-0x00007f053fbca000-0x00007f053fbca000), size 12361728, SharedBaseAddress: 0x00007f053f000000, ArchiveRelocationMode: 1.
+[2025-11-11T01:19:34.747+0000][gc,metaspace] Compressed class space mapped at: 0x00007f0540000000-0x00007f0580000000, reserved size: 1073741824
+[2025-11-11T01:19:34.747+0000][gc,metaspace] Narrow klass base: 0x00007f053f000000, Narrow klass shift: 0, Narrow klass range: 0x100000000
+[2025-11-11T01:23:56.999+0000][gc,heap,exit] Heap
+[2025-11-11T01:23:57.001+0000][gc,heap,exit]  garbage-first heap   total 524288K, used 26036K [0x00000000e0000000, 0x0000000100000000)
+[2025-11-11T01:23:57.001+0000][gc,heap,exit]   region size 1024K, 25 young (25600K), 0 survivors (0K)
+[2025-11-11T01:23:57.002+0000][gc,heap,exit]  Metaspace       used 7645K, committed 7872K, reserved 1114112K
+[2025-11-11T01:23:57.002+0000][gc,heap,exit]   class space    used 852K, committed 960K, reserved 1048576K
